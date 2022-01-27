@@ -5,7 +5,9 @@ I have used provider in this project in order to maintain state managment in the
 
 # Versions
 Flutter version : 2.5.3
+
 Dart version : 2.14.4
+
 Python version : 3.8.5
 
 # Steps
